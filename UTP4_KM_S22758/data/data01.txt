@@ -1,0 +1,4 @@
+pl	Toskania	2015-09-01	2015-10-01	góry	20000,20	PLN
+pl_PL	Hiszpania	2015-07-10	2015-07-30	góry	4000,10	PLN
+en_GB	United States	2015-07-10	2015-08-30	mountains	5,400.20	USD
+en_GB	Thailand	2015-07-10	2015-08-30	sea	10,600.20	USD
